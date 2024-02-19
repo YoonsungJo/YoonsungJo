@@ -1,8 +1,8 @@
 -👋 Hi, I’m @YoonsungJo
--🌱 Majoring in
--    📈 Business
--    📖 PL(Legal Studies)
--    👨🏻‍💻 Convergence Software at Sogang University
+- 🌱 Majoring in
+  - 📈 Business
+  - 📖 PL(Legal Studies)
+  - 👨🏻‍💻 Convergence Software at Sogang University
 - 📫How to reach me 
 
 <!---
